@@ -1,18 +1,95 @@
-# 💫 About Me:
-## 👋 About Me<br><br>🚀 AI SaaS Builder | Full Stack Developer | Future Tech Entrepreneur  <br><br>I’m a passionate developer focused on building intelligent, scalable SaaS products that combine AI, strategy, and modern web architecture. I enjoy transforming complex ideas into real-world digital solutions that are both technically strong and strategically impactful.<br><br>---<br><br>🔭 I’m currently working on  <br>- **BrandStudio* — AI-powered branding intelligence platform  <br>- AI-driven SaaS tools using React, Node.js & Firebase  <br>- Smart Campus Infrastructure Toolkit  <br><br>👯 I’m looking to collaborate on  <br>- AI-powered web applications  <br>- Machine Learning & Computer Vision projects  <br><br>🤝 I’m looking for help with  <br>- Advanced AI system architecture  <br>- SaaS scaling strategies  <br>- Cloud security & DevOps best practices  <br><br>🌱 I’m currently learning  <br>- Advanced Machine Learning  <br>- Secure API architecture  <br>- System design for high-scale applications  <br><br><br>⚡ Fun fact  <br>I enjoy building startups before most people finish planning them 🚀
+<!-- PROFILE HEADER --><h1 align="center">Hi 👋, I'm Prakash Narayanam</h1><h3 align="center">
+🚀 AI SaaS Builder | Full Stack Developer | Python | AI/ML
+</h3><p align="center">
+Building intelligent SaaS platforms and scalable web applications.
+</p><p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+SaaS+Builder;Full+Stack+Developer;Machine+Learning+Enthusiast;Future+Tech+Entrepreneur" />
+</p><p align="center">
+<img src="https://komarev.com/ghpvc/?username=PrakashN&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>---
 
+💫 About Me
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/narayanam-prakash/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:naarayanamprakash@gmail.com) 
+🚀 AI SaaS Builder passionate about creating intelligent platforms and scalable web applications.
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PrakashNarayanam&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=PrakashNarayanam&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PrakashNarayanam&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+I enjoy transforming complex ideas into real-world digital products using modern technologies and AI.
+
+💡 My mission is to build technology products that impact millions of users.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=PrakashNarayanam&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+🔭 Currently Working On
+
+🚀 BrandStudio
+AI-powered branding intelligence platform.
+
+🏫 Smart Campus Infrastructure Toolkit
+A modular platform for managing campus infrastructure digitally.
+
+🤖 AI-powered SaaS tools
+Using React, Python, Firebase, and modern web technologies.
+
+---
+
+🌱 Currently Learning
+
+🧠 Advanced Machine Learning
+⚙️ System Design for scalable applications
+🔐 Secure API architecture
+☁️ Cloud security & DevOps
+
+---
+
+👯 Collaboration Interests
+
+🤝 AI-powered web applications
+🤝 Machine Learning & Computer Vision
+🤝 SaaS product development
+
+---
+
+🧰 Tech Stack
+
+<p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" /><img src="https://skillicons.dev/icons?i=python,flask,nodejs" /><img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase" /><img src="https://skillicons.dev/icons?i=aws,vercel,git,github,postman,figma" /></p>---
+
+🚀 Featured Projects
+
+🧠 Smart Campus Infrastructure Toolkit
+Digital platform to manage campus infrastructure and operations.
+
+🤖 AI Learning Assistant
+Interactive AI system that recommends learning resources.
+
+🔐 Computer Vision Security System
+Machine learning-based image recognition security system.
+
+🍔 FoodFly App
+Food delivery platform with admin and customer dashboards.
+
+---
+
+📊 GitHub Stats
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=PrakashN&show_icons=true&theme=tokyonight"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrakashN&layout=compact&theme=tokyonight"/></p>---
+
+🔥 GitHub Streak
+
+<p align="center"><img src="https://streak-stats.demolab.com/?user=PrakashN&theme=tokyonight"/></p>---
+
+🐍 Contribution Snake
+
+<p align="center"><img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" /></p>---
+
+🌐 Connect With Me
+
+💼 LinkedIn
+📧 Email
+🌍 Portfolio Website
+
+---
+
+⚡ Vision
+
+«Building intelligent technology products that solve real-world problems.»
+
+«Code + AI + Strategy = Future Technology 🚀»
