@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Prakash Narayanam</h1><h3 align="center">
 🤖 AI-Powered Full Stack Web Developer | Python | AI/ML Enthusiast
 </h3><p align="center">
-Building intelligent applications that combine AI and modern web technologies.
+Building intelligent web applications that combine AI and modern web technologies.
 </p><p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Powered+Developer;Full+Stack+Web+Developer;AI%2FML+Enthusiast;Building+Smart+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI-Powered+Full+Stack+Developer;AI%2FML+Enthusiast;Building+Smart+Applications;Creating+Technology+for+Real+World+Problems" />
 </p><p align="center">
 <img src="https://komarev.com/ghpvc/?username=PrakashNarayanam&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>---
@@ -12,9 +12,9 @@ Building intelligent applications that combine AI and modern web technologies.
 
 🤖 AI-Powered Full Stack Web Developer
 
-I enjoy building intelligent web applications that combine AI, modern web development, and real-world problem solving.
+I build intelligent applications that combine Artificial Intelligence, full stack web development, and real-world problem solving.
 
-I like transforming ideas into practical digital solutions using Python, web technologies, and modern system design.
+I enjoy transforming ideas into practical digital products using Python, modern web technologies, and scalable system design.
 
 ---
 
@@ -24,20 +24,24 @@ I like transforming ideas into practical digital solutions using Python, web tec
 
 An AI-based assistant designed to help farmers with:
 
-• crop guidance
-• farming recommendations
-• agricultural insights
+• Crop guidance
+• Farming recommendations
+• Agricultural insights
+
+📱 PujaMate — Devotional Assistance App
+
+Mobile application that helps devotees and priests with pooja guidance, temple services, and spiritual resources.
 
 ---
 
 🌱 Currently Learning
 
-• Generative AI fundamentals
+• Generative AI Fundamentals
 • Full Stack Web Development
 • Data Structures & Algorithms (DSA)
 • Secure API Architecture
 • Cloud Security
-• DevOps fundamentals
+• DevOps Fundamentals
 
 ---
 
@@ -53,7 +57,11 @@ AI-powered agricultural assistant helping farmers make better farming decisions.
 
 🎨 BrandStudio
 
-AI-powered branding intelligence platform that helps generate brand insights and strategies.
+AI-based branding intelligence platform that helps generate brand ideas and strategies.
+
+📱 PujaMate
+
+Mobile application designed to help devotees and priests with pooja guidance and temple services.
 
 ---
 
@@ -69,6 +77,16 @@ AI-powered branding intelligence platform that helps generate brand insights and
 
 <p align="center"><img src="https://raw.githubusercontent.com/PrakashNarayanam/PrakashNarayanam/output/github-contribution-grid-snake-dark.svg" /></p>---
 
+🌐 Connect With Me
+
+<p align="center"><a href="https://www.linkedin.com/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a><a href="mailto:ranbidgesolutionspvtltd@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a><a href="https://ranbidge-solutions-private-limited.onrender.com/">
+🌐 Portfolio
+</a></p>---
+
 ⚡ Vision
 
-«Building intelligent AI-powered systems that solve real-world problems.»
+«Building intelligent AI-powered systems that solve real-world problems and improve lives.»
