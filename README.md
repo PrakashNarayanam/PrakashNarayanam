@@ -79,13 +79,9 @@ Mobile application designed to help devotees and priests with pooja guidance and
 
 🌐 Connect With Me
 
-<p align="center"><a href="https://www.linkedin.com/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a><a href="mailto:ranbidgesolutionspvtltd@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a><a href="https://ranbidge-solutions-private-limited.onrender.com/">
-🌐 Portfolio
-</a></p>---
+Email: narayanamprakash@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/prakash-narayanam
 
 ⚡ Vision
 
