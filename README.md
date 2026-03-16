@@ -77,6 +77,8 @@ Mobile application designed to help devotees and priests with pooja guidance and
 
 <p align="center"><img src="https://raw.githubusercontent.com/PrakashNarayanam/PrakashNarayanam/output/github-contribution-grid-snake-dark.svg" /></p>---
 
+![Snake animation](https://github.com/PrakashNarayanam/PrakashNarayanam/blob/output/github-contribution-grid-snake.svg)
+
 🌐 Connect With Me
 
 Email: narayanamprakash@gmail.com
